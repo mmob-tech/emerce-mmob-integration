@@ -9,7 +9,7 @@ Example usage:
   <head>
     <script src="https://assets.mmob.com/js/mmob-snippet.min.js"></script>
     <!-- Load this code after loading snippet library: -->
-    <script src="https://unpkg.com/emerce-mmob-integration@1.0.0/emerce-mmob-integration.js"></script>
+    <script src="https://unpkg.com/emerce-mmob-integration@latest/emerce-mmob-integration.js"></script>
   </head>
   <body>
     <div id="iframe-container"></div>
