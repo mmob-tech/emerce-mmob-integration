@@ -1,5 +1,5 @@
 {
-  "name": "@mmob/emerce-mmob-integration",
+  "name": "emerce-mmob-integration",
   "version": "1.0.0",
   "description": "Map from Emerce language to MMOB locale",
   "main": "emerce-mmob-integration.js",
