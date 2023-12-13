@@ -15,8 +15,8 @@ Example usage:
     <div id="iframe-container"></div>
     <script>
       initMarketplace(
-        '#iframe-container'
-        'cp_9AidXA6tIpz7RR4thMrrJ'
+        '#iframe-container',
+        'cp_9AidXA6tIpz7RR4thMrrJ',
         'cpd_7NNG7KCUjOjagv5Jxt5Ov',
         'https://client-ef-network.ef-hub.com',
         {},
