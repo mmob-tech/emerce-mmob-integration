@@ -16,7 +16,7 @@
 			'ms': 'ms_MY',
 			'default': 'ms_MY',
 		},
-		[CP_ID.EMERCE[: {
+		[CP_ID.EMERCE]: {
 			'en': 'en_GB',
 			'ms': 'ms_MY',
 			'default': 'en_GB',

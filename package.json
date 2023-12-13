@@ -1,6 +1,6 @@
 {
   "name": "emerce-mmob-integration",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Map from Emerce language to MMOB locale",
   "main": "emerce-mmob-integration.js",
   "keywords": [],
